@@ -6,4 +6,4 @@ Forward Propagation
 Backward Propagation
 Batch Normalization (both forward and backward propagation)
 
-<img src='justtemp (2).png' />
+<img src='justtemp (2).png' width='75%'/>
